@@ -23,4 +23,3 @@ function sayHiToHeadphonedRoommate(string) {
      }
 }
 
-git add .
